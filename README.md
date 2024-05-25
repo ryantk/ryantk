@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Find me on:
-- <a rel="me" href="https://mastodon.social/@ryantk">Mastodon</a>
-
 <!--
 **ryantk/ryantk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
